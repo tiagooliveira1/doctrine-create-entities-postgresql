@@ -5,7 +5,7 @@ Need run with php-cli, and need 2 parameters to correct operation.
 
 Two parameters are required. Call example:
 
-php create_entities.php [table name] [Controller Filename Output] [Verbose result (true or false)]
+php create_entities.php [table name] [Entities Filename Output] [Verbose result (true or false)]
 
 
 */
